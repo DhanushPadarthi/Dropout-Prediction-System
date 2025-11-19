@@ -1,0 +1,14 @@
+# Django Backend Requirements
+Django==4.2.7
+djangorestframework
+django-cors-headers
+python-decouple
+celery
+redis
+
+# Utilities
+requests
+whitenoise
+
+# Development
+python-dotenv
