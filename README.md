@@ -113,6 +113,7 @@ ai-dropout-prediction-system/
 ### Backend Setup
 ```bash
 cd backend
+venv\scripts\activate
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
