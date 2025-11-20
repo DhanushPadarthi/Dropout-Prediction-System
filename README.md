@@ -88,20 +88,6 @@ ai-dropout-prediction-system/
 - **Primary**: Students, Mentors/Teachers, Academic Counselors
 - **Secondary**: Parents/Guardians, Administration
 
-## 📅 Development Timeline
-
-| Phase | Duration | Status |
-|-------|----------|--------|
-| Requirements & Setup | 2-3 days | ✅ |
-| UI/UX + Dashboard | 1 week | 🔄 |
-| Backend + API | 1 week | 🔄 |
-| ML Integration | 1 week | 🔄 |
-| Notification System | 4-5 days | 🔄 |
-| Testing & QA | 3 days | ⏳ |
-| Deployment | 2-3 days | ⏳ |
-
-**Total: ~4-5 Weeks**
-
 ## 🚀 Quick Start
 
 ### Prerequisites
